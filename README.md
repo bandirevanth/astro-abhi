@@ -6,8 +6,6 @@
 
 _**My personal portfolio website** — a digital reflection of skills, projects, and aspirations._ [VISIT NOW!](https://astro-abhi.vercel.app/)
 
-<br><br><br><br>
-
 ## Overview
 
 This website serves as my professional online presence. It was built with React.js, HTML/CSS, Javascript.

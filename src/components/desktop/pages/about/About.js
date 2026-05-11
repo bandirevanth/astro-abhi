@@ -56,7 +56,7 @@ const About = () => {
         <TextBox className="light">
           {i18n("ABOUT.RESUME", {
             years_old: calculateAge("07/06/2009"),
-            experience: calculateAge("01/01/2026"),
+            experience: calculateAge("01/01/2025"),
             react_link: (
               <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                 <b>React</b>
