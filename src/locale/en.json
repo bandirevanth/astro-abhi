@@ -1,0 +1,64 @@
+{
+  "PAGE_TITLE": "M.L. Abhinav",
+  "NAME": "M.L. Abhinav",
+  "MUSIC": "Music",
+  "EFFECTS": "Sound effects",
+  "FULLSCREEN": "Fullscreen",
+  "MENU": {
+    "HOME": "Home",
+    "PORTFOLIO": "Portfolio",
+    "ABOUT": "About",
+    "CONTACT": "Contact"
+  },
+  "INTRO": {
+    "ENTER": "Enter",
+    "DESCRIPTION": "For best experience, please leave the audio on.",
+    "SUB_HEADLINE": "You can disable it easily any time."
+  },
+  "PORTFOLIO": {
+    "MENU": {
+      "SPACE_ART": "ROCKETS",
+      "DIGITAL_ART": "SOFTWARE",
+      "TRADITIONAL_ART": "RESEARCH",
+      "WEBSITES": "OTHER PROJECTS",
+      "LOGOS": "TECH-RELATED",
+      "BUSINESS_CARDS": "NON-TECHNICAL"
+    }
+  },
+  "ABOUT": {
+    "DORK_MODE": "Dork mode",
+    "RESUME": "I am a {{years_old}} years old <b>aerospace & astronautics engineer</b> with about {{experience}} years of experience in the field.<br /> I had passion for rockets and space when I was a kid and it grew into a aerospace career. Now I’m focused on building rockets, space tech, R&D and having fun and sense of fulfilment in my professional journey.",
+    "ABOUT_SITE": "This website was built in partnership with Bandi Revanth<span>Thank you for stopping by!</span>"
+  },
+  "CONTACT": {
+    "PLANET_DESCRIPTION": {
+      "LINKEDIN": "If you want to connect me in <b>LinkedIn</b>.",
+      "GITHUB": "See my OSS journey on <b>GitHub</b>.",
+      "EMAIL": "Wanna drop me an email?",
+      "PHONE": "Something important going on? <br />Call me +91 123456789",
+      "TWITTER": "If you want to dive in my social era <b>X</b>."
+    },
+    "ORBIT_LABELS": {
+      "LINKEDIN": "LinkedIn",
+      "GITHUB": "GitHub",
+      "EMAIL": "Email",
+      "PHONE": "Phone",
+      "TWITTER": "X"
+    }
+  },
+  "SNAKE_GAME": {
+    "RETRO_SNAKE": "Retro Snake",
+    "MODERN_REACT": "with modern React",
+    "SCORE": "Score",
+    "CLICK_TO_START": "Click to start game",
+    "OR_PRESS_SPACE": "or press space",
+    "PAUSED": "Paused",
+    "PRESS_ESC_TO_CONTINUE": "Press escape to continue",
+    "HIGH_SCORE": "High score",
+    "CLICK_TORESTART": "Click to restart",
+    "CONGRATS_YOU_WON": "Congratulations, You Won!",
+    "CONTROLS": "<span>Pause/Resume</span>: <b>Esc</b> key. <span>Move</span>: Arrows or ''<b>a</b>, <b>w</b>, <b>s</b>, <b>d</b>'' keys"
+  },
+  "MOBILE_UNDER_CONSTRUCTION": "<span>Mobile version is under development.</span> <br />Meanwhile you are welcome to experience the awesomness of the <b>desktop</b> version.",
+  "MOBILE_NOT_READY_REASON": "The desktop design and experience is not adaptable for mobile which will require a development of entirely new mobile dedicated design."
+}
